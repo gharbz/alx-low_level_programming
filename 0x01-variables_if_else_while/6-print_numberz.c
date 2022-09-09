@@ -3,7 +3,8 @@
 /**
  * main<F11> - Entry point
  *
- * Description: print 0-9 using putchar while using int variable
+ * Description: print 0-9 using putchar
+ *              while using int variable
  *
  * Return: Always 0 (Success)
  */
