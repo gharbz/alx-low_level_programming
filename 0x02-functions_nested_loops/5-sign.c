@@ -1,14 +1,14 @@
 #include"main.h"
 
 /**
- * print_design - print + if n is greater than zero
+ * print_sign - print + if n is greater than zero
  *                0 if n is zero and - if n is less
  *                than zero
  * @n - takes integer type input for function
  * 
  * Return - 1 is +, 0 of zero and -1 if -
  */
-int print-sign(int n)
+int print_sign(int n)
 {
 	if (n > 0)
 	{
