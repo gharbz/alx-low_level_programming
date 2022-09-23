@@ -6,7 +6,7 @@
  * Return: string
  */
 
-char *leet(chhat *str)
+char *leet(char *str)
 {
 	int i, j;
 
