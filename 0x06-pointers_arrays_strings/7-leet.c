@@ -21,7 +21,7 @@ char *leet(chhat *str)
 		{
 			if (str[i] == s[j] || str[i] == s[j] - 32)
 			{
-				str[i] s[j + 1];
+				str[i] = s[j + 1];
 				break;
 			}
 		}
